@@ -1,0 +1,4 @@
+we are learning about the git branch
+git branch shows name of the branch
+git branch branch name create new branch
+git switch branch_NAME CAn shift the branches 
