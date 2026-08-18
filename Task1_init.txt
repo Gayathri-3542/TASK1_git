@@ -1,0 +1,7 @@
+hi 
+in this folder we are learning :
+1)git initialization
+2) stageing area
+3)git status
+4)git add. staging all the files 
+5) and also we learn git commits it can work only on existed files.
